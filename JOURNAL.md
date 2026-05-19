@@ -17,5 +17,13 @@ Today, I designed an eccentric roller for two cycloidal disks, as as well as the
 <img width="1258" height="764" alt="image" src="https://github.com/user-attachments/assets/563902fd-8a12-46ca-a408-c02c316dad60" />
 **Time spent: 3 hrs**
 
+May 18th, 2026 - putting together cycloidal gears and troubleshooting
+Today, I was using onshape to figure out how the cyclcoidal disks should be aligned so that all the output holes are the same size and they fit into rollers sitting at a diameter of 10cm with the disks 180 degrees out of phase. It took a lot of trial and error to figure out, because at first I didn't know how to get the disks to be perfectly aligned 180 degrees while also having the output holes being aligned, but eventually, using the rotator tool I was able to figure it out. So far, I also have designed the housing for the gearbox which will be 12.2 cm in diameter as well as some of the bearings parts I will be using as rollers. Next, I want to figure out how to make holes for the NEMA 17 stepper motor to go into the entire eccentric shaft so the motor can be bolted directly to the housing.
+
+<img width="1440" height="900" alt="Screenshot 2026-05-19 at 9 54 19 AM" src="https://github.com/user-attachments/assets/becc4a09-7c75-4176-9469-5c74c241a0d3" />
+**Time spent: 4 hrs**
+
+
+
 
 
