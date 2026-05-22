@@ -18,10 +18,25 @@ Today, I designed an eccentric roller for two cycloidal disks, as as well as the
 **Time spent: 3 hrs**
 
 May 18th, 2026 - putting together cycloidal gears and troubleshooting
+
 Today, I was using onshape to figure out how the cyclcoidal disks should be aligned so that all the output holes are the same size and they fit into rollers sitting at a diameter of 10cm with the disks 180 degrees out of phase. It took a lot of trial and error to figure out, because at first I didn't know how to get the disks to be perfectly aligned 180 degrees while also having the output holes being aligned, but eventually, using the rotator tool I was able to figure it out. So far, I also have designed the housing for the gearbox which will be 12.2 cm in diameter as well as some of the bearings parts I will be using as rollers. Next, I want to figure out how to make holes for the NEMA 17 stepper motor to go into the entire eccentric shaft so the motor can be bolted directly to the housing.
 
 <img width="1440" height="900" alt="Screenshot 2026-05-19 at 9 54 19 AM" src="https://github.com/user-attachments/assets/becc4a09-7c75-4176-9469-5c74c241a0d3" />
 **Time spent: 4 hrs**
+
+May 20, 2026 - Deciding on materials and making m3 attatchments
+
+Today I made the decision to use metal dowels for the inside of the roller pins. Hopefully it will be stronger and not too heavy because the actual gearbox is small but will be robust in torque. It is a 15:1 ratio, so if the NEMA 17 produces 26 Ncm of torque, the motor with the gearbox could theoretically produce about 390Ncm of torque without accounting for friction and machining issues. I also got to work designing a mounting plate for the NEMA 17, which will use a plate with m3 bolt attatchments that will mount onto the motor, and then can be mounted on the gearbox with another set of m3 screws. I need to figure out what type of heat set inserts I will be using, because I am not completely sure how large I should make the holes so that the inserts fit well. I am also debating adding some way to mount the entire gearbox to an external thing, so that the actuator can be used to make something like a robotic arm which is a goal for the future. <img width="1440" height="900" alt="Screenshot 2026-05-22 at 12 08 10 PM" src="https://github.com/user-attachments/assets/0eed8780-1cd4-487a-afd3-7b7f7eb0fc06" />
+
+In this photo, I added mounting holes which will be able to seat some short head m3 screws that will mount the motor plate. 
+
+<img width="1440" height="900" alt="Screenshot 2026-05-22 at 12 09 29 PM" src="https://github.com/user-attachments/assets/986d5065-1919-443d-8634-fcf28b884e3f" />
+
+This is the motor plate, with more m3 sized shorthead mounts.
+
+**Time Spent: 3 hrs**
+
+
 
 
 
