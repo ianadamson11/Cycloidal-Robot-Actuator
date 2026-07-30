@@ -1,0 +1,51 @@
+Resources:
+https://howtomechatronics.com/how-it-works/what-is-cycloidal-driver-designing-3d-printing-and-testing/
+https://www.tec-science.com/mechanical-power-transmission/planetary-gear/construction-of-the-cycloidal-disc/
+https://mevirtuoso.com/cycloidal-drive/
+Bolt list: https://monsterbolts.com/pages/m3-bolt-size?srsltid=AfmBOopjVN7W0u9BNU9R54K7YojLopGF3dTavulMdBKmcHUbeIfEMw7J
+
+https://www.allaboutcircuits.com/textbook/direct-current/chpt-6/kirchhoffs-voltage-law-kvl/
+
+CAD files:
+https://cad.onshape.com/documents/e22c17f6f061efd729710a8c/w/5c56873a232f8ef47252d7f4/e/02f0f505d5bab6ac15750ee9
+
+Software - Github link
+https://github.com/ianadamson11/Cycloidal-Robot-Actuator/tree/main
+
+Tutorials:
+
+Parts list:
+Hall effect - https://www.digikey.com/en/products/detail/allegro-microsystems/A1104EUA-T/1005917?gclsrc=aw.ds&gad_source=1&gad_campaignid=17922795960&gbraid=0AAAAADrbLlgpC6mW3HnKFULmtBbGww-53&gclid=Cj0KCQjwlLDQBhDjARIsAPlIefFH9qsMVIw2zUW1BU9xXQBHndj3pxYzzDKEJce7UJKDyjf89Q58BAEaAs5HEALw_wcB
+
+Bearing - 
+
+Dowel - https://www.mcmaster.com/products/dowels/dowel-pins-1~~/diameter~6-0000-mm/diameter~6-000-mm/diameter~6-mm/length~32-mm/shaft-type~plain/
+BOLTS (DO NOT BUY - ROUGH PART ONLY):
+Eccentric shaft 6x: https://www.mcmaster.com/91290A171/
+Output shaft 2x: https://www.mcmaster.com/92855A319/ or aliexpress
+Mounting plate 8x 
+
+Spacer: 
+https://www.wkooa.com/product/6x10x1-shim-washers-stainless-steel-round-metric-din988/?utm_source=Google%20Shopping&utm_campaign=all&utm_medium=cpc&utm_term=adtribes&gad_source=1&gad_campaignid=23482324547&gbraid=0AAAAA-EMLnlVzD5Ias0jc4lpvJdrj0J40&gclid=Cj0KCQjw_b_QBhCSARIsAP6hR4fvPomiykfxOmOdcM_V36DfXr_r_wwTMh0_hap6eYUI1uZF1tGDmzMaAib4EALw_wcB
+
+Motor - 
+https://www.amazon.coy
+m/STEPPERONLINE-Stepper-Bipolar-Printer-Extruder/dp/B0B93L4H57/ref=sr_1_4?crid=9PNWYC5587QC&dib=eyJ2IjoiMSJ9.ftAdvPxcb5_VC-_m2MOC1zLWVYNzid5sIFhlq59rIP43htXO3JkpEoWpbci0NLStYdoMats87uICxjeWNA_8gGyo_fclYG4FyZxCtOLGpydJhbyP2kW7qcs2H9Wjrb0VZ2OO7pYV1_7rrt_hpYMHuMAxGax-UzbyeSb0euv9ACN0D1I0kz0UhBnlNGBqcOoeIzYOICzRz6osaax-S345-x823cMqJUBq1-mFC2wBVW0.lanrizijc6kmg2y3E8lQYd4ZVKjQZw5GlqMmueHyx_8&dib_tag=se&keywords=NEMA%2B17%2Bstepper%2Bmotor&qid=1778848278&sprefix=nema%2B17%2Bstepper%2Bmotor%2Caps%2C235&sr=8-4&th=1
+
+
+
+
+Inserts 
+
+https://www.amazon.com/HANGLIFE-Heat-Set-Threaded-Printing-Components/dp/B0CS6VZYL8/ref=sr_1_4?crid=16P62KDZMX9KJ&dib=eyJ2IjoiMSJ9.jvOPYymPjZmfBOqyGDp_CMbGQNoHV8siDt0bl6JQWF5fEpK0MgeprV3SWGK0Xy5WecIZJ6HJB1YqRGeitl8WMoSj0X82-jcnuejIC6jn6v4BxD5n6VNW9S40UCheVzB64iuZiKkN4gRf4ZdLLZLqsCKFxqRhGBBVm4kSdT6L_Bv4PZcVS1HiZ6IsfaoPD1IOPWTkKaUWKuS9eAWQd8_TyAIy6QXVz2LDoWxr4gkS9jhReUt3A0CHy0p-mRpSxsZSg3O2fMxOr79T0MqRSGEOM2nu29So9CUluYYzN_xlvbw.ul9cBGUyWofZDbr7cP--oIdav_Q0UwPmDnSw5f5YV_I&dib_tag=se&keywords=4mm%2Bm3%2Bheat%2Bset%2Binserts&qid=1784844236&s=industrial&sprefix=4mm%2Bm3%2Bheat%2Bset%2Binserts%2Cindustrial%2C238&sr=1-4&th=1
+
+Next steps:
+PCB with stepper motor control capabilities
+STM32 Based - 
+https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/documentation.html
+https://www.youtube.com/watch?v=dnfuNT1dPiM
+Motor controller
+https://resources.altium.com/p/build-advanced-brushless-motor-controller
+
+
+
